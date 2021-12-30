@@ -1,0 +1,129 @@
+.cont-b {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    
+}
+.div-inps {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top:0px;
+    width: 500px;
+    height: 400px;
+   
+    
+}
+.cont-usuario {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#nome {
+    width: 300px;
+}
+#idade {
+    margin-left: 10px;
+    width: 90px;
+}
+.inps-u {
+    outline: none;
+    text-indent: 10px;
+    width: 400px;
+    margin-top: 20px;
+    border: none;
+    background: none;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.4);
+    border-radius: 4px;
+    color: #fff;
+    font-weight: bold;
+}
+.inps-u::placeholder {
+    color: rgb(235, 231, 231);
+    font-weight: lighter;
+}
+.inps-u:hover {   
+    box-shadow: 2px 2px 2px #000;
+    font-size: 15px;
+}
+.endereco {
+    color: #ccc;
+    text-shadow: 2px 2px 2px rgb(0, 0, 0);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+}
+.inps-end {
+    outline: none;
+    text-indent: 10px;
+    width: 400px;
+    margin-top: 20px;
+    border: none;
+    background: none;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.4);
+    border-radius: 4px;
+    color: #fff;
+    
+    
+}
+.inps-end::placeholder {
+   color: rgb(62, 63, 63);
+    
+}
+.cont-rua {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#rua {
+    width: 300px;
+}
+#numero {
+    width: 90px;
+    margin-left: 10px;
+}
+#cep {
+    width: 300px;
+}
+.bot-buscar {
+    width: 90px;
+    margin-left: 10px;
+    color: white;
+    background: blueviolet;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    box-shadow: 2px 2px 2px #fff;
+    font-size: 12px;
+}
+.bot-buscar:hover {
+    color: blueviolet;
+    background: rgba(255, 255, 255, 0.4);
+    box-shadow: 2px 2px 2px #000;
+}
+.titulo {
+    color: #ccc;
+    text-shadow: 4px 2px 2px rgb(0, 0, 0);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    margin-top: 30px;
+}
+.botao {
+    color: white;
+    font-weight: bold;
+    background: blueviolet;
+    margin-top: 30px;
+    width: 100px;
+    height: 30px;
+    border-radius: 4px;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    box-shadow: 2px 2px 2px #fff;
+}
+.botao:hover {
+    color: blueviolet;
+    background: rgba(255, 255, 255, 0.4);
+    box-shadow: 2px 2px 2px #000;
+}

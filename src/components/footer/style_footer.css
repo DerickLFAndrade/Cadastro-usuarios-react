@@ -1,0 +1,78 @@
+* {
+    bottom: 0;
+    margin: 0;
+    padding: 0;
+}
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    height: 50px;
+    background: none;
+    width: 100vw;
+    bottom: 0;
+}
+.div-footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 96vw;
+    color: rgb(255, 255, 255);
+    text-shadow: 2px 2px 2px black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    cursor: pointer;
+}
+.cont-sl {
+    display: flex;
+}
+.itens-footer {
+    margin-left: 30px;
+}
+.cont-fc {
+     display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    
+}
+.faleConosco {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    outline: none;
+    border: none;
+    background: transparent;
+    color: rgb(43, 226, 150);
+    
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+    font-size: 14px;
+    margin-top: 0px;
+    margin-left: 15px;
+}
+
+.ops {
+    margin-left: 2px;
+    background: transparent;
+}
+.ico {
+    width: 18px;
+    margin-left: 15px;
+}
+.cont-icons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+#inst {
+    color: blueviolet;
+}
+#fc {
+    color: cornflowerblue;
+}
+#tlf {
+    color: rgb(179, 190, 228);
+
+}

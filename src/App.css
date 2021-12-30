@@ -1,0 +1,12 @@
+* {
+  padding: 0;
+  margin: 0;
+} 
+.App {
+  background: linear-gradient( rgb(96, 24, 129),rgb(35, 109, 165),rgb(78, 160, 207), rgb(164, 203, 226), rgb(255, 255, 255));
+  text-align: center;
+  width: 100vw;
+  height: 100vh;
+}
+
+
