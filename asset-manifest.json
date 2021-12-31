@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Cadastro-usuarios-react/static/css/main.c90780e3.css",
+    "main.js": "/Cadastro-usuarios-react/static/js/main.f0bbb654.js",
+    "static/media/facebook-ico.ico": "/Cadastro-usuarios-react/static/media/facebook-ico.be6e8f1d822b19a8ebc9.ico",
+    "static/media/whatsApp-ico.ico": "/Cadastro-usuarios-react/static/media/whatsApp-ico.1556f31a64654086e848.ico",
+    "static/media/instagram-ico.ico": "/Cadastro-usuarios-react/static/media/instagram-ico.2a2b6c2ecf283ba15e56.ico",
+    "static/media/telefone-ico.ico": "/Cadastro-usuarios-react/static/media/telefone-ico.ad21ee47e200834b42da.ico",
+    "index.html": "/Cadastro-usuarios-react/index.html",
+    "main.c90780e3.css.map": "/Cadastro-usuarios-react/static/css/main.c90780e3.css.map",
+    "main.f0bbb654.js.map": "/Cadastro-usuarios-react/static/js/main.f0bbb654.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c90780e3.css",
+    "static/js/main.f0bbb654.js"
+  ]
+}
